@@ -6,3 +6,4 @@ pydot
 PyPDF2
 xlrd
 xlsxwriter
+python-dateutil==2.5.3
